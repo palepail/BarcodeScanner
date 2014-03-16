@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BarcodeScanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scan">Scan</string>
+    <string name="result_failed">No barcode found</string>
+    <string name="result_failed_why">"The user gave up and pressed Back"</string>
+    <string name="result_succeeded">Found barcode</string>
+    <string name="scan_anything">Scan anything</string>
+    <string name="scan_product">Scan product</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="search_book_contents">Search Book Contents</string>
+    <string name="share_via_barcode">Share via barcode</string>
+
+</resources>
